@@ -78,3 +78,4 @@
         <property name="basePackage" value="org.seckill.dao"/>
     </bean>
 </beans>
+
